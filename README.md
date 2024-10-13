@@ -3,6 +3,7 @@
 Welcome to the **Esma3ny** frontend repository! This is the React Vite-powered web interface of our project, designed to **convert Arabic speech into text** using our custom model. It also provides **automatic language detection and translation** from **English to Arabic** using **OpenL API**.
 
 The project is deployed on **Netlify** for seamless access 🌐.
+
 Link to the Backend repo: https://github.com/MrSa3dola/Esma3nyAPI
 ---
 
