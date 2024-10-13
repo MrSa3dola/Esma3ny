@@ -4,7 +4,12 @@ Welcome to the **Esma3ny** frontend repository! This is the React Vite-powered w
 
 The project is deployed on **Netlify** for seamless access 🌐.
 
-Link to the Backend repo: [Esma3nyAPI](https://github.com/MrSa3dola/Esma3nyAPI)
+Backend repo: [Esma3nyAPI](https://github.com/MrSa3dola/Esma3nyAPI)
+
+Notebooks
+* [Speech2text notebook](https://www.kaggle.com/code/marwan2232004/speech2text-transformer)
+* [Translation notebook](https://www.kaggle.com/code/mrsa3dola/ar-en-v1/notebook) 
+
 ---
 
 ### 🚀 Features
